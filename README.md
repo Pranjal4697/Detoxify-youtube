@@ -16,7 +16,7 @@
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/youtube-detoxify.git
+    git clone https://github.com/Pranjal4697/Detoxify-youtube.git
     ```
 
 2. **Load the Extension in Chrome:**
