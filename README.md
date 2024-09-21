@@ -1,4 +1,4 @@
-# YouTube Detoxify - Custom YouTube Feed Curator
+# YouTube Detoxifier - Custom YouTube Feed Curator
 
 ## 🌟 Overview
 
