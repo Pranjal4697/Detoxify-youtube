@@ -1,4 +1,4 @@
-# YouTube Detoxifier - Custom YouTube Feed Curator
+# YouTube Detoxifier - Custom YouTube Feed Curator (implementation in progress, first version of the code will be uploaded soon)
 
 ## 🌟 Overview
 
