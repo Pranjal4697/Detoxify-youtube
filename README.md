@@ -1,5 +1,6 @@
-# YouTube Detoxifier - Custom YouTube Feed Curator (implementation in progress, first version of the code will be uploaded soon)
+# YouTube Detoxifier - Custom YouTube Feed Curator 
 
+**Status:** Implementation is in progress, first working version of the code will be uploaded soon 
 ## 🌟 Overview
 
 **YouTube Detoxifier** is a browser extension designed to enhance your YouTube experience by filtering out videos that don't align with your interests. It blurs irrelevant video recommendations based on user-defined keywords, helping you stay focused on content that matters.
