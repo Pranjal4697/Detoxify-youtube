@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyDRgF-7cPQGUoaV7UiLMrYuAloG79CijME";
+const API_KEY = "";
 const projectId = "gen-lang-client-0587018346";
 const location = "us-central1";  // Modify based on your location
 const modelId = "gemini-1.5-flash-002";

@@ -12,7 +12,7 @@ app.use(express.json()); // Middleware for parsing JSON bodies
 // In-memory cache setup with expiration time of 60 seconds
 const cache = new NodeCache({ stdTTL: 60 });
 
-const API_KEY='AIzaSyDRgF-7cPQGUoaV7UiLMrYuAloG79CijME';
+const API_KEY='';
 
 // Rate limiter for outgoing API requests
 const apiRateLimiter = rateLimit({

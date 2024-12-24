@@ -11,7 +11,7 @@ const port = 3000;
 
 
 // Configure Google Generative AI with your API key
-const genAI = new GoogleGenerativeAI("AIzaSyDRgF-7cPQGUoaV7UiLMrYuAloG79CijME");
+const genAI = new GoogleGenerativeAI("");
 const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
 // Configure the queue to limit Gemini API requests to 15 per minute
