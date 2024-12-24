@@ -36,6 +36,6 @@ The extension scans YouTube video titles and descriptions as you scroll through 
 
 - **JavaScript**: Core scripting language for the extension.
 - **HTML & CSS**: For the extension's user interface.
-- **Google Cloud NLP API **: Planned integration for advanced content filtering.
+- **Google Cloud NLP API**: Planned integration for advanced content filtering.
 
   
